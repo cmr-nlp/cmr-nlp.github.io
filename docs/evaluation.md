@@ -3,13 +3,13 @@ layout: default
 title: Evaluation
 nav_order: 4
 # toc_list: true
-last_modified_date: Jun 5th 2021
+last_modified_date: April 5th 2022
 permalink: /evaluation
 mathjax: true
 has_toc: true
 ---
 
-# Evaluation Protocol
+# Evaluation Protocol & Analysis
 {: .no_toc}
 
 

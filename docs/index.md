@@ -4,7 +4,7 @@ title: Intro
 nav_order: 1
 description: "On Continual Model Refinement in Out-of-Distribution Data Streams"
 permalink: /
-last_modified_date: Jun 5th 2021
+last_modified_date: April 5th 2022
 ---
  
 # CMR | On Continual Model Refinement in Out-of-Distribution Data Streams
