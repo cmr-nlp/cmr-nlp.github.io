@@ -12,10 +12,10 @@ last_modified_date: Jun 5th 2021
 
 ---
 <span class="fs-2">
-[Paper](https://www.aclweb.org/anthology/2021.naacl-main.366/){: target="_blank" .btn .btn-green .mr-1 .fs-3}
-[Github](https://github.com/yuchenlin/OpenCSR/){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
-[Video](https://mega.nz/file/5SpQjJKS#J82pfZVDzy3r4aWdNF4R6O8EP5gsepbY20vYihANfgE){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
-[Slides](/opencsr_naacl_slides.pptx){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
+[Paper](https://yuchenlin.xyz/files/cmr.pdf){: target="_blank" .btn .btn-green .mr-1 .fs-3}
+[Github](https://github.com/yuchenlin/CMR/){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
+[Video](#){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
+[Slides](#){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
 </span>
 
 
