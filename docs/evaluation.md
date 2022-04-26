@@ -24,6 +24,7 @@ has_toc: true
 
 ## Experiments 
 
+
 There are multiple scripts for running experiments with different CMR methods in `experiments/run_scripts`. 
 We leave their documentation on our project website.
 Here we take the `run_simplecl.sh` and `slurm_simple.sh` as examples for running the Continual-Finetuning baseline method shown in our paper. For running other CMR methods, the filename should be self-explanatory and we will show the detailed instructions on our website.
@@ -47,8 +48,17 @@ Note that we include a slurm-related command for those who use [slurm] for sched
 
 
 
+## Metrics 
 
- 
+![cmr_metrics](images/cmr_metrics.png){: style="text-align:center; display:block; margin-left: auto; margin-right: auto;" width="100%"}
+
+TODO: add the descriptions for these metrics.
+
+The online evaluation is part of the code for CMR methods and the results are saved into json-format result files, so we do not need to run a separate script for evaluation.
+We provide a script to generate a csv-format file to report the performance of multiple CMR methods. Please check out `experiments/report_results.py`.
+
+
+## Reference Methods
 
 ### None Refinement (reference)
 TODO: introduce `experiments/run_scripts/run_nonecl.sh`.
