@@ -13,9 +13,10 @@ last_modified_date: April 5th 2022
 ---
 <span class="fs-2">
 [Paper](https://yuchenlin.xyz/files/cmr.pdf){: target="_blank" .btn .btn-green .mr-1 .fs-3}
-[Github](https://github.com/yuchenlin/CMR/){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
-[Video](#){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
-[Slides](#){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
+[Github](https://github.com/facebookresearch/SemanticDebugger){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
+[Video](https://youtu.be/DhCSL_EkpRc){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
+[Slides](/files/csr_talk_final.pptx){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
+[Poster](/files/csr_poster.pdf){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
 </span>
 
 
