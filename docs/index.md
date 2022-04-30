@@ -16,7 +16,7 @@ last_modified_date: April 5th 2022
 [Github](https://github.com/facebookresearch/SemanticDebugger){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
 [Video](https://youtu.be/DhCSL_EkpRc){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
 [Slides](/content/csr_talk_final.pptx){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
-[Poster](/content/csr_poster.pdf){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
+<!-- [Poster](/content/csr_poster.pdf){: target="_blank" .btn .btn-red .mr-1 .fs-3 } -->
 </span>
 
 
