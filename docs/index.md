@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Intro
+title: Home
 nav_order: 1
 description: "On Continual Model Refinement in Out-of-Distribution Data Streams"
 permalink: /
